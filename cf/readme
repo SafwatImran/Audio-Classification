@@ -1,0 +1,3 @@
+Change the paths as necessary to test different datasets.
+Change the size of the array as necessary depending on number of samples and test/train ratio.
+Softmax layer filters depend on number of classes, this model has it set to 10 due to 10 classes being present in UrbanSound8k.
