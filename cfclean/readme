@@ -1,0 +1,3 @@
+Copy all audio files to the directory wavfiles and run eda.py to obtain graphical outputs and downsample audio to 16kHz in the clean directory.
+Change number of filters in the softmax layers according to the number of classes in model.py while training the model.
+
